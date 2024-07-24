@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=king193&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h1 align="left">Hi 👻! My name is Leon and I'm a Programmer, from Morocco</h1>
 
 ###
@@ -75,3 +73,5 @@
 </div>
 
 ###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=king193&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
