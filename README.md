@@ -36,6 +36,12 @@
 
 ###
 
+<div align="left">
+  <img height="180" src="https://media1.tenor.com/m/FWgYlvN26ggAAAAC/sleep-well.gif"  />
+</div>
+
+###
+
 <h3 align="left">Skills:</h3>
 
 ###
@@ -52,7 +58,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="140" src="https://media1.tenor.com/m/8CwyWCTpcZcAAAAC/handsome-ikemen.gif"  />
 
 ###
 
