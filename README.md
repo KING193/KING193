@@ -1,4 +1,3 @@
-
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 <h1 align="left">Hi 👻! My name is Leon and I'm a Programmer, from Morocco</h1>
