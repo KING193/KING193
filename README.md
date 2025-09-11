@@ -27,15 +27,14 @@
 </div>
 
 ###
-<!-- gift -->
-<!-- ### avtivet-->
-<div style="display:flex; align-items:center; justify-content:space-between; width:100%; gap:1rem;">
+<!-- gift + avtivet (same line, gift left, activity right) -->
+<div style="display:flex; align-items:center; justify-content:space-between; width:100%; gap:1rem; flex-wrap:wrap;">
   <div style="flex:0 0 auto; text-align:left;">
-    <img height="180" src="https://media1.tenor.com/m/FWgYlvN26ggAAAAC/sleep-well.gif" alt="gift" />
+    <img height="140" src="https://media1.tenor.com/m/FWgYlvN26ggAAAAC/sleep-well.gif" alt="gift" />
   </div>
   <div style="flex:1 1 auto; text-align:right;">
-    <img src="https://github-readme-stats.vercel.app/api?username=KING193&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KING193&layout=compact&theme=dark&hide_border=false" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KING193&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&hide_border=false" height="140" alt="stats graph" style="vertical-align:middle; margin-left:8px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KING193&layout=compact&theme=dark&hide_border=false" height="140" alt="languages graph" style="vertical-align:middle; margin-left:8px;" />
   </div>
 </div>
 
