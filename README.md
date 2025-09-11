@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KING193/KING193/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KING193/KING193/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KING193/KING193/output/pacman-contribution-graph.svg">
-</picture>
+<img src="/assets/pacman.svg" />
 
 <h1 align="left">Hi 👻! My name is Leon and I'm a Programmer, from Morocco</h1>
 
