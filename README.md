@@ -27,18 +27,16 @@
 </div>
 
 ###
-
-#<div align="left">
-# <img height="180" src="https://media1.tenor.com/m/FWgYlvN26ggAAAAC/sleep-well.gif"  />
-#</div>
-
-###
-
-<div align="right">
-  <img height="180" src="https://media1.tenor.com/m/FWgYlvN26ggAAAAC/sleep-well.gif"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=KING193&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KING193&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
- 
+<!-- gift -->
+<!-- ### avtivet-->
+<div style="display:flex; justify-content:space-between; align-items:center; width:100%; gap:1rem;">
+  <div style="flex:0 0 auto; text-align:left;">
+    <img height="180" src="https://media1.tenor.com/m/FWgYlvN26ggAAAAC/sleep-well.gif" alt="gift" />
+  </div>
+  <div style="flex:0 0 auto; text-align:right;">
+    <img src="https://github-readme-stats.vercel.app/api?username=KING193&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KING193&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
+  </div>
 </div>
 
 ###
