@@ -29,9 +29,12 @@
 ###
 <!-- gift -->
 <!-- ### avtivet-->
-<div style="display:flex; align-items:center; justify-content:space-between; width:100%; gap:1rem;">
+
+ <img align="right" height="140" src="https://media1.tenor.com/m/FWgYlvN26ggAAAAC/sleep-well.gif" />
+
+<div  align="left" style="display:flex; align-items:center; justify-content:space-between; width:100%; gap:1rem;">
   <div style="flex:0 0 auto; text-align:left;">
-    <img height="180" src="https://media1.tenor.com/m/FWgYlvN26ggAAAAC/sleep-well.gif" alt="gift" />
+   
   </div>
   <div style="flex:1 1 auto; text-align:right;">
     <img src="https://github-readme-stats.vercel.app/api?username=KING193&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -42,10 +45,6 @@
 ###
 
 <h3 align="left">Social:</h3>
-
-###
-
-<img align="right" height="140" src="https://media1.tenor.com/m/8CwyWCTpcZcAAAAC/handsome-ikemen.gif"  />
 
 ###
 
