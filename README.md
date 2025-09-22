@@ -1,6 +1,6 @@
 <img src="https://profile-readme-generator.com/assets/pacman.svg" />
 
-<h1 align="left">Hi 👻! My name is Leon and I'm a Programmer, from Morocco</h1>
+<h1 align="left">Hi 👻! My name is Leon and I'm a Programmer</h1>
 
 ###
 
