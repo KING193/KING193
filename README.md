@@ -38,7 +38,7 @@
   </div>
   <div style="flex:1 1 auto; text-align:right;">
     <img src="https://github-readme-stats.vercel.app/api?username=KING193&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KING193&layout=compact&theme=dark&hide_border=false" height="200" alt="languages graph" /> <!-- height:150 >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KING193&layout=compact&theme=dark&hide_border=false" height="150" weight="200" alt="languages graph" /> 
   </div>
 </div>
 
