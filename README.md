@@ -30,7 +30,7 @@
 <!-- gift -->
 <!-- ### avtivet-->
 
- <img align="right" height="140" src="https://media1.tenor.com/m/FWgYlvN26ggAAAAC/sleep-well.gif" />
+<!-- <img align="right" height="140" src="https://media1.tenor.com/m/FWgYlvN26ggAAAAC/sleep-well.gif" /> -->
 
 <div  align="left" style="display:flex; align-items:center; justify-content:space-between; width:100%; gap:1rem;">
   <div style="flex:0 0 auto; text-align:left;">
